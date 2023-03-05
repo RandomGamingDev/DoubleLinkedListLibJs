@@ -1,4 +1,4 @@
-let DoubleLinkedList = {}
+let DoubleLinked = {}
 DoubleLinked.Node = class {
 	constructor(data = null, before = null, next = null) {
 		this.data = data;
