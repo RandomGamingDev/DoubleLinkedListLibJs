@@ -48,7 +48,7 @@ DoubleLinked.List = class {
 	}
 
 	append(list) {
-		for (let i = list.head; i != nullptr; i = i.next)
+		for (let i = list.head; i != null; i = i.next)
 			this.push(i.value);
 	}
 
