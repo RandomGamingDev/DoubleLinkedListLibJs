@@ -77,4 +77,11 @@ DoubleLinked.List = class {
 		this.head = new Linked.Node();
 		this.tail = this.head;
 	}
+	
+	ind(i) {
+		let toReturn = this.head;
+		for (; i > 0; i--)
+			toReturn = toReturn.next;
+		return toReturn;
+	}
 }
