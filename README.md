@@ -1,11 +1,20 @@
 # DoubleLinkedListLibJs
 A simple double linked list that stores the head, tail and length of the list.
 
-<img src="DoubleLinkedListLibJs.png" width="256" />
+<img src="https://github.com/RandomGamingDev/DoubleLinkedListLibJs/raw/main/DoubleLinkedListLibJs.png" width="256" />
 
 This library was created, not only for education purposes, but to be a fast, effiecient and easy to use one way linked list library, which are perfect for things like ECS.
 
+The Github is available here: https://github.com/RandomGamingDev/DoubleLinkedListLibJs
+
 An example of the library's use can be seen here in the form of a snake game: https://github.com/RandomGamingDev/Snakep5js/tree/main
+
+## How to import via NPM
+```
+npm i ez-double-linked-list
+```
+
+## How to import via CDN (Content Distribution Network)
 
 To use it you can simply include https://cdn.jsdelivr.net/gh/RandomGamingDev/DoubleLinkedListLibJs/list.js in your HTML file! If you want to you can also just download the file and include it in your HTML file that way.
 
