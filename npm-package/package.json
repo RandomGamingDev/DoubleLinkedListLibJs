@@ -1,0 +1,22 @@
+{
+  "name": "ez-double-linked-list",
+  "version": "1.0.2",
+  "description": "A simple double linked list that stores the head, tail and length of the list.",
+  "license": "MIT",
+  "author": "randomgamingdev",
+  "type": "commonjs",
+  "main": "list.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "linked",
+    "list",
+    "linked list",
+    "data",
+    "data structure",
+    "single",
+    "double",
+    "two way"
+  ]
+}
